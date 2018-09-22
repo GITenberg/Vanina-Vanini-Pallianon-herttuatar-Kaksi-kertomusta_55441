@@ -1,0 +1,33 @@
+_repo: Vanina-Vanini-Pallianon-herttuatar-Kaksi-kertomusta_55441
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tuura, Timo
+    gutenberg_agent_id: '46998'
+    url: http://www.gutenberg.org/2009/agents/46998
+creator:
+  author:
+    agent_name: Stendhal
+    aliases:
+    - Marie-Henri Beyle
+    - Beyle, Marie Henri
+    birthdate: 1783
+    deathdate: 1842
+    gutenberg_agent_id: '418'
+    url: http://www.gutenberg.org/2009/agents/418
+    wikipedia: http://en.wikipedia.org/wiki/Stendhal
+description: ''
+gutenberg_issued: '2017-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55441'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Vanina Vanini; Pallianon herttuatar
+
+  Kaksi kertomusta'
+url: http://www.gutenberg.org/ebooks/55441
