@@ -1,10 +1,13 @@
 _repo: Vanina-Vanini-Pallianon-herttuatar-Kaksi-kertomusta_55441
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Tuura, Timo
     gutenberg_agent_id: '46998'
     url: http://www.gutenberg.org/2009/agents/46998
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stendhal
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/418
     wikipedia: http://en.wikipedia.org/wiki/Stendhal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55441#Vanina-Vanini-Pallianon-herttuatar-Kaksi-kertomusta
 gutenberg_issued: '2017-08-27'
 gutenberg_type: Text
 identifiers:
